@@ -1,0 +1,65 @@
+C:\Users\USER\Documents\SharpDevelop Projects\SF绝域\SF绝域\bin\Debug\SF绝域.exe
+C:\Users\USER\Documents\SharpDevelop Projects\SF绝域\SF绝域\bin\Debug\SF绝域.pdb
+C:\Users\USER\Documents\SharpDevelop Projects\SF绝域\SF绝域\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\SharpDevelop Projects\SF绝域\SF绝域\obj\Debug\SF绝域.exe
+C:\Users\USER\Documents\SharpDevelop Projects\SF绝域\SF绝域\obj\Debug\SF绝域.pdb
+C:\Users\USER\Documents\SharpDevelop Projects\SF绝域\SF绝域\obj\Debug\SF绝域.MainForm.resources
+C:\Users\USER\Documents\SharpDevelop Projects\SF绝域\SF绝域\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\SharpDevelop Projects\SF绝域\SF绝域\obj\Debug\GenerateResource.write.1.tlog
+I:\真作品\SF绝域\SF绝域\bin\Debug\SF绝域.exe
+I:\真作品\SF绝域\SF绝域\bin\Debug\SF绝域.pdb
+I:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.csprojResolveAssemblyReference.cache
+I:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.MainForm.resources
+I:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.csproj.GenerateResource.Cache
+I:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.exe
+I:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.pdb
+I:\真作品\SF绝域\SF绝域\bin\Debug\Aboutme.exe
+I:\真作品\SF绝域\SF绝域\bin\Debug\Aboutme.pdb
+G:\真作品\SF绝域\SF绝域\bin\Debug\SF绝域.exe
+G:\真作品\SF绝域\SF绝域\bin\Debug\SF绝域.pdb
+G:\真作品\SF绝域\SF绝域\bin\Debug\Aboutme.exe
+G:\真作品\SF绝域\SF绝域\bin\Debug\Aboutme.pdb
+G:\真作品\SF绝域\SF绝域\obj\Debug\ResolveAssemblyReference.cache
+G:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.MainForm.resources
+G:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.exe
+G:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.pdb
+G:\真作品\SF绝域\SF绝域\bin\Debug\SF绝域.exe.config
+G:\真作品\SF绝域\SF绝域\obj\Debug\GenerateResource.read.1.tlog
+G:\真作品\SF绝域\SF绝域\obj\Debug\GenerateResource.write.1.tlog
+I:\真作品\SF绝域\SF绝域\bin\Debug\SF绝域.exe.config
+E:\作品\SF绝域\SF绝域\obj\Debug\SF绝域.csprojResolveAssemblyReference.cache
+E:\作品\SF绝域\SF绝域\obj\Debug\SF绝域.MainForm.resources
+E:\作品\SF绝域\SF绝域\obj\Debug\SF绝域.csproj.GenerateResource.Cache
+E:\作品\SF绝域\SF绝域\obj\Debug\SF绝域.exe
+E:\作品\SF绝域\SF绝域\bin\Debug\SF绝域.exe.config
+E:\作品\SF绝域\SF绝域\bin\Debug\SF绝域.exe
+E:\作品\SF绝域\SF绝域\bin\Debug\SF绝域.pdb
+E:\作品\SF绝域\SF绝域\bin\Debug\Aboutme.exe
+E:\作品\SF绝域\SF绝域\bin\Debug\Aboutme.pdb
+E:\作品\SF绝域\SF绝域\obj\Debug\SF绝域.pdb
+E:\作品\SF绝域\SF绝域\bin\Debug\Topshower.exe
+E:\作品\SF绝域\SF绝域\bin\Debug\Topshower.pdb
+I:\作品\SF绝域\SF绝域\bin\Debug\SF绝域.exe.config
+I:\作品\SF绝域\SF绝域\bin\Debug\SF绝域.exe
+I:\作品\SF绝域\SF绝域\bin\Debug\SF绝域.pdb
+I:\作品\SF绝域\SF绝域\bin\Debug\Aboutme.exe
+I:\作品\SF绝域\SF绝域\bin\Debug\Topshower.exe
+I:\作品\SF绝域\SF绝域\bin\Debug\Aboutme.pdb
+I:\作品\SF绝域\SF绝域\bin\Debug\Topshower.pdb
+I:\作品\SF绝域\SF绝域\obj\Debug\SF绝域.csprojResolveAssemblyReference.cache
+I:\作品\SF绝域\SF绝域\obj\Debug\SF绝域.MainForm.resources
+I:\作品\SF绝域\SF绝域\obj\Debug\SF绝域.csproj.GenerateResource.Cache
+I:\作品\SF绝域\SF绝域\obj\Debug\SF绝域.exe
+I:\作品\SF绝域\SF绝域\obj\Debug\SF绝域.pdb
+I:\Codes\Works\SF绝域\SF绝域\bin\Debug\SF绝域.exe.config
+I:\Codes\Works\SF绝域\SF绝域\bin\Debug\SF绝域.exe
+I:\Codes\Works\SF绝域\SF绝域\bin\Debug\SF绝域.pdb
+I:\Codes\Works\SF绝域\SF绝域\bin\Debug\Aboutme.exe
+I:\Codes\Works\SF绝域\SF绝域\bin\Debug\Topshower.exe
+I:\Codes\Works\SF绝域\SF绝域\bin\Debug\Aboutme.pdb
+I:\Codes\Works\SF绝域\SF绝域\bin\Debug\Topshower.pdb
+I:\Codes\Works\SF绝域\SF绝域\obj\Debug\SF绝域.csprojResolveAssemblyReference.cache
+I:\Codes\Works\SF绝域\SF绝域\obj\Debug\SF绝域.MainForm.resources
+I:\Codes\Works\SF绝域\SF绝域\obj\Debug\SF绝域.csproj.GenerateResource.Cache
+I:\Codes\Works\SF绝域\SF绝域\obj\Debug\SF绝域.exe
+I:\Codes\Works\SF绝域\SF绝域\obj\Debug\SF绝域.pdb

@@ -1,0 +1,1 @@
+pssuspend64 -r StudentMain.exe

@@ -1,0 +1,12 @@
+I:\真作品\SF绝域\Aboutme\bin\Release\Aboutme.exe.config
+I:\真作品\SF绝域\Aboutme\bin\Release\Aboutme.exe
+I:\真作品\SF绝域\Aboutme\obj\Release\Aboutme.csprojResolveAssemblyReference.cache
+I:\真作品\SF绝域\Aboutme\obj\Release\Aboutme.MainForm.resources
+I:\真作品\SF绝域\Aboutme\obj\Release\Aboutme.csproj.GenerateResource.Cache
+I:\真作品\SF绝域\Aboutme\obj\Release\Aboutme.exe
+I:\Codes\Works\SF绝域\Aboutme\bin\Release\Aboutme.exe.config
+I:\Codes\Works\SF绝域\Aboutme\bin\Release\Aboutme.exe
+I:\Codes\Works\SF绝域\Aboutme\obj\Release\Aboutme.csprojResolveAssemblyReference.cache
+I:\Codes\Works\SF绝域\Aboutme\obj\Release\Aboutme.MainForm.resources
+I:\Codes\Works\SF绝域\Aboutme\obj\Release\Aboutme.csproj.GenerateResource.Cache
+I:\Codes\Works\SF绝域\Aboutme\obj\Release\Aboutme.exe

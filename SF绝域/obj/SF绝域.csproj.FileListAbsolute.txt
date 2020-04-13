@@ -1,0 +1,9 @@
+G:\真作品\SF绝域\SF绝域\bin\Debug\SF绝域.exe
+G:\真作品\SF绝域\SF绝域\bin\Debug\SF绝域.pdb
+G:\真作品\SF绝域\SF绝域\bin\Debug\Aboutme.exe
+G:\真作品\SF绝域\SF绝域\bin\Debug\Aboutme.pdb
+G:\真作品\SF绝域\SF绝域\obj\Debug\ResolveAssemblyReference.cache
+G:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.MainForm.resources
+G:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.csproj.GenerateResource.Cache
+G:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.exe
+G:\真作品\SF绝域\SF绝域\obj\Debug\SF绝域.pdb
