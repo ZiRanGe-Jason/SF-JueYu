@@ -92,10 +92,6 @@
       <Project>{ACD14890-4CF0-4530-A484-17A9F7B88567}</Project>
       <Name>Aboutme</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Topshower\Topshower.csproj">
-      <Project>{018EB34A-6FCF-434F-867E-92B74F30B03E}</Project>
-      <Name>Topshower</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

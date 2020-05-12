@@ -118,7 +118,7 @@ namespace Aboutme
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(381, 278);
 			this.label2.TabIndex = 0;
-			this.label2.Text = "SF绝域\r\n此软件用于脱离课堂控制化教学环境\r\n\r\n由ZIRanGe-Jason制作\r\n\r\n使用.NET4.0 Framework运行库\r\n版本为 0.1.2";
+			this.label2.Text = "SF绝域\r\n此软件用于脱离课堂控制化教学环境\r\n\r\n由ZIRanGe-Jason制作\r\n\r\n使用.NET4.0 Framework运行库\r\n版本为 0.2.0";
 			// 
 			// button1
 			// 

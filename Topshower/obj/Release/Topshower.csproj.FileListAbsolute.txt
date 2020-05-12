@@ -1,5 +1,0 @@
-I:\Codes\Works\SF绝域\Topshower\bin\Release\Topshower.exe
-I:\Codes\Works\SF绝域\Topshower\obj\Release\Topshower.csprojResolveAssemblyReference.cache
-I:\Codes\Works\SF绝域\Topshower\obj\Release\Topshower.MainForm.resources
-I:\Codes\Works\SF绝域\Topshower\obj\Release\Topshower.csproj.GenerateResource.Cache
-I:\Codes\Works\SF绝域\Topshower\obj\Release\Topshower.exe

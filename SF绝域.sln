@@ -6,8 +6,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF绝域", "SF绝域\SF绝�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aboutme", "Aboutme\Aboutme.csproj", "{ACD14890-4CF0-4530-A484-17A9F7B88567}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topshower", "Topshower\Topshower.csproj", "{018EB34A-6FCF-434F-867E-92B74F30B03E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,9 +20,5 @@ Global
 		{ACD14890-4CF0-4530-A484-17A9F7B88567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ACD14890-4CF0-4530-A484-17A9F7B88567}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ACD14890-4CF0-4530-A484-17A9F7B88567}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{018EB34A-6FCF-434F-867E-92B74F30B03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{018EB34A-6FCF-434F-867E-92B74F30B03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{018EB34A-6FCF-434F-867E-92B74F30B03E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{018EB34A-6FCF-434F-867E-92B74F30B03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal

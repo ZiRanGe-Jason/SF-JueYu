@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Diagnostics;
+using System.Runtime.InteropServices;    
 using System.IO;
 
 namespace SF绝域
@@ -20,6 +21,8 @@ namespace SF绝域
 	/// </summary>
 	public partial class MainForm : Form
 	{
+		 [DllImport("kernel32.dll")]
+   		public static extern int WinExec(string exeName, int operType);
 		public bool zhiding;
 		public MainForm()
 		{
@@ -33,6 +36,7 @@ namespace SF绝域
 			this.Load+=new EventHandler(Form1_Load);
 			
 			if(File.Exists(@".\running.zt"))this.Close();
+			//WinExec("crat.bat",1);
 			Process.Start("crat.bat");
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
@@ -63,7 +67,7 @@ namespace SF绝域
 		void Button2Click(object sender, EventArgs e)
 		{
 			this.Hide();
-			Process.Start("bye.bat");
+			WinExec("bye.bat",0);
 			int lastsec=from19700101sec();
 			while(from19700101sec()-lastsec<=1);
 			this.Show();
@@ -71,12 +75,12 @@ namespace SF绝域
 		
 		void Button3Click(object sender, EventArgs e)
 		{
-			Process.Start("hello.bat");
+			WinExec("hello.bat",0);
 		}
 		
 		void Button5Click(object sender, EventArgs e)
 		{
-			Process.Start("killjy.bat");
+			WinExec("killjy.bat",0);
 			MessageBox.Show("运行结束 现在您可能会被老师发现", "Kill极域", MessageBoxButtons.OK,MessageBoxIcon.Warning);
 		}
 		
@@ -91,7 +95,7 @@ namespace SF绝域
 		{
 			zhiding=false;
 			File.Delete(@".\running.zt");
-			Process.Start("killi.bat");
+			WinExec("killi.bat",0);
 		}
 		
 		void Button7Click(object sender, EventArgs e)
@@ -99,10 +103,10 @@ namespace SF绝域
 			zhiding=false;
 		}
 		
-		void Button6Click(object sender, EventArgs e)
+		/*void Button6Click(object sender, EventArgs e)
 		{
 			Process.Start("explorer.exe");
 			Process.Start("Topshower.exe");
-		}
+		}*/
 	}
 }
